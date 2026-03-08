@@ -18,6 +18,7 @@
 
 ### 🔧 资源推荐
 - YesCaptcha 推荐注册链接（grok Turnstile 云解）：https://yescaptcha.com/i/tlkF6o
+- Tavily API Key 闲鱼小店：如果你需要现成可用的 Tavily API Key，可以直接前往闲鱼小店下单：https://m.tb.cn/h.i2HIraW?tk=iiQYUF6nihb
 
 ### 💬 交流与反馈
 - TG 频道：https://t.me/MasterAlanLab
